@@ -1,8 +1,8 @@
-# Big Data Analytics.
+# Big Data Analytics
 
 All notebooks are about COVID-19 data [https://health.google.com/covid-19/open-data/]
 
-Contents:
+**Contents:**
 
 - Level 1 - Data Cleaning and Acquisition (done).
 
