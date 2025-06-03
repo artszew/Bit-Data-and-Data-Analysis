@@ -1,6 +1,6 @@
 # Computer data analysis
 
-# Big Data Analytics
+# Big Data Tasks
 
 All notebooks are about COVID-19 data [https://health.google.com/covid-19/open-data/]
 
