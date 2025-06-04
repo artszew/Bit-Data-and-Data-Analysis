@@ -1,5 +1,4 @@
 [EN]
-
 # Computer data analysis
 
 # Big Data Tasks
@@ -19,7 +18,6 @@ All notebooks are about COVID-19 data [https://health.google.com/covid-19/open-d
 - Level 5 - Spark Basics (in progress).
 
 [PL]
-
 # Komputerowa analiza danych
 
 # Big Data
