@@ -32,7 +32,7 @@ Wszystkie zadania dotyczą danych z COVID-19 [https://health.google.com/covid-19
 
 - Poziom 3 - Redukcja i dyskretyzacja danych - Analiza danych, szeregi czasowe i regresja wielomianowa.
 
-- Poziom 4 - MapReduce - podstawowy paradygmat, combiner i porównanie z pythonem .
+- Poziom 4 - MapReduce - Podstawowy paradygmat, combiner i porównanie z pythonem .
 
 - Poziom 5 - Podstawy Sparka i UDF.
 
