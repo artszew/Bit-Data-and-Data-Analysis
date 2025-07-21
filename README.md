@@ -1,6 +1,6 @@
 [EN]
-
-# 1. Big Data Tasks
+_____
+# Big Data Tasks
 
 All notebooks are about COVID-19 data [https://health.google.com/covid-19/open-data/]
 
@@ -16,11 +16,10 @@ All notebooks are about COVID-19 data [https://health.google.com/covid-19/open-d
 
 - Level 5 - Spark Basics and UDF.
 
-# 2. Computer data analysis tasks
 
 [PL]
-
-# 1. Big Data
+_____
+# Przetwarzanie Dużych Zbiorów Danych
 
 Wszystkie zadania dotyczą danych z COVID-19 [https://health.google.com/covid-19/open-data/]
 
@@ -36,4 +35,3 @@ Wszystkie zadania dotyczą danych z COVID-19 [https://health.google.com/covid-19
 
 - Poziom 5 - Podstawy Sparka i UDF.
 
-# 2. Komputerowa analiza danych
