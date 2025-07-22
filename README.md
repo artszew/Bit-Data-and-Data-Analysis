@@ -4,6 +4,8 @@ _____
 
 All notebooks are about COVID-19 data [https://health.google.com/covid-19/open-data/]
 
+Details about each level can be found in the README.md files of the corresponding directories.
+
 **Contents:**
 
 - Level 1 - Data Cleaning and Acquisition.
@@ -22,6 +24,8 @@ _____
 # Przetwarzanie Dużych Zbiorów Danych
 
 Wszystkie zadania dotyczą danych z COVID-19 [https://health.google.com/covid-19/open-data/]
+
+Szczegóły dotyczące każdego z poziomów znajdujących się w plikach README.md odpowiednich katalogów.
 
 **Zadania:**
 
