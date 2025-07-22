@@ -14,7 +14,7 @@ All notebooks are about COVID-19 data [https://health.google.com/covid-19/open-d
 
 - Level 4 - MapReduce - Basic paradigm, combiner and comparison with python.
 
-- Level 5 - Spark Basics and UDF.
+- Level 5 - Spark Basics.
 
 
 [PL]
@@ -33,5 +33,5 @@ Wszystkie zadania dotyczą danych z COVID-19 [https://health.google.com/covid-19
 
 - Poziom 4 - MapReduce - podstawowy paradygmat, combiner i porównanie z pythonem .
 
-- Poziom 5 - Podstawy Sparka i UDF.
+- Poziom 5 - Podstawy Sparka.
 
